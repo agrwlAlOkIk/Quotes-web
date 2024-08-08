@@ -50,7 +50,11 @@ Make sure you have the following software installed on your system:
 - Random Quote: Every time you refresh the page, a new random quote will be displayed.
 - Search by Author: Use the search bar to find quotes by a specific author. Enter the author's name and press "Search".
 
+
+
 Enjoy your quotes!
+
+---
 
 Happy coding!
 
